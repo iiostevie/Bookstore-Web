@@ -1,5 +1,3 @@
-# Lab-1-Group2-A2
-
 ## How to run the project
 
 1. config the .env file for path
